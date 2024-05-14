@@ -1,0 +1,6 @@
+@OpenIdConnect_HostAddress = http://localhost:5089
+
+GET {{OpenIdConnect_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

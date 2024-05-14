@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4Wocc/FrfO/defwEedPZufzMuCvbtfi3tSB80yYiEcg=",
+  "Source": "OpenIdConnect",
+  "BasePath": "_content/OpenIdConnect",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
